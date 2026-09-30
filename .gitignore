@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Blockchain local data - do NOT commit
+nexus_blockchain_data.json
+
+# Bun lockfile (optional)
+bun.lockb
