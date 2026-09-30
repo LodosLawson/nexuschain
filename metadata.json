@@ -1,0 +1,8 @@
+{
+  "name": "Nexus L1 - Layer-1 Blockchain & Wallet",
+  "description": "Hafif, güvenli ve performanslı Layer-1 blokzinciri ve kripto cüzdanı. 1 Milyar sabit arz, 1 Coin hoş geldin airdrop'u ve %0.10 transfer kesintisi iadesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
